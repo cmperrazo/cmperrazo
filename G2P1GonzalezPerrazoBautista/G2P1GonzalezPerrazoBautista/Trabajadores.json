@@ -1,0 +1,25 @@
+{
+   "nombreEmpleado": "Jilmar",
+   "cedula": 1234567899,
+   "nCelular": 987654321,
+   "edad": 56,
+   "Salario": 600.0
+}{
+   "nombreEmpleado": "Bryan",
+   "cedula": 9876543214,
+   "nCelular": 987654321,
+   "edad": 56,
+   "Salario": 600.0
+}{
+   "nombreEmpleado": "joel",
+   "cedula": 1234567891,
+   "nCelular": 987654321,
+   "edad": 20,
+   "Salario": 700.0
+}{
+   "nombreEmpleado": "Jilmar",
+   "cedula": 1234567890,
+   "nCelular": 987654321,
+   "edad": 323,
+   "Salario": 600.0
+}

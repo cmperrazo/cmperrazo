@@ -1,0 +1,18 @@
+Nombre: Bryan
+Cedula: 9876543214
+Numero de Celular: 987654321
+Edad: 56
+Salario: 600.0
+-------------------------------------
+Nombre: joel
+Cedula: 1234567891
+Numero de Celular: 987654321
+Edad: 20
+Salario: 700.0
+-------------------------------------
+Nombre: Jilmar
+Cedula: 1234567890
+Numero de Celular: 987654321
+Edad: 323
+Salario: 600.0
+-------------------------------------

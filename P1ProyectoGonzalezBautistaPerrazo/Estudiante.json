@@ -1,0 +1,52 @@
+[
+  {
+    "career": "Tecnologias de la informacion",
+    "level": "Segundo",
+    "subject": [
+      "Fisica.",
+      "Calculo vectorial.",
+      "Programacion Orientada. O."
+    ],
+    "identification": 1234567322,
+    "name": "Camila",
+    "lastName": "Perrazo",
+    "phone": 987651234,
+    "userName": "caperrazo12",
+    "universityId": 12154
+  },
+  {
+    "career": "Tecnologias de la informacion",
+    "level": "Segundo",
+    "subject": [
+      "Programacion Orientada. O.",
+      "Calculo vectorial.",
+      "Fisica."
+    ],
+    "identification": 1234567854,
+    "name": "Dayanara",
+    "lastName": "Bautista",
+    "phone": 987654321,
+    "userName": "dabautista12",
+    "universityId": 73389
+  },
+  {
+    "career": "Agropecuaria",
+    "level": "Segundo",
+    "identification": 1722893839,
+    "name": "Carol",
+    "lastName": "Guerra",
+    "phone": 984820483,
+    "userName": "caguerra17",
+    "universityId": 51538
+  },
+  {
+    "career": "Biotecnologia",
+    "level": "Segundo",
+    "identification": 2345676543,
+    "name": "Bryan",
+    "lastName": "Gonzalez",
+    "phone": 987654123,
+    "userName": "brgonzalez23",
+    "universityId": 35609
+  }
+]

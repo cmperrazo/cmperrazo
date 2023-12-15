@@ -1,0 +1,18 @@
+Nombre: Jilmar
+Cedula: 1234567893
+Numero de Celular: 987654321
+Edad: 23
+Salario: 600.0
+-------------------------------------
+Nombre: Bryan
+Cedula: 1234567898
+Numero de Celular: 943286748
+Edad: 23
+Salario: 600.0
+-------------------------------------
+Nombre: Camila
+Cedula: 1233445556
+Numero de Celular: 983093765
+Edad: 20
+Salario: 500.0
+-------------------------------------

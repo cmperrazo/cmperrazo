@@ -1,0 +1,38 @@
+[
+  {
+    "career": "Tecnologias de la informacion",
+    "level": "Segundo",
+    "costoMatricula": 0.0,
+    "identification": 1234567890,
+    "name": "Dayanara",
+    "lastName": "Bautista",
+    "studentId": 75173,
+    "phone": 987654325,
+    "address": "SantoDomingo",
+    "userName": "dabautista12"
+  },
+  {
+    "career": "Tecnologias de la informacion",
+    "level": "Segundo",
+    "costoMatricula": 0.0,
+    "identification": 1752597953,
+    "name": "Jilmar",
+    "lastName": "Gonzalez",
+    "studentId": 10000,
+    "phone": 982623141,
+    "address": "Quito",
+    "userName": "jigonzalez17"
+  },
+  {
+    "career": "Biotecnologia",
+    "level": "Segundo",
+    "costoMatricula": 0.0,
+    "identification": 1752597956,
+    "name": "Bryan",
+    "lastName": "Lojan",
+    "studentId": 76681,
+    "phone": 987654321,
+    "address": "Quito",
+    "userName": "brlojan17"
+  }
+]
